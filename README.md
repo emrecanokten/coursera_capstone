@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# coursera_capstone
 This project is the final project assignment of IBM Data Science Professional Certification program.
 
 ## Contents
